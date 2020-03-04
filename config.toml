@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Data Science Portfolio"
   keywords = ""
   images = [""]
 
@@ -105,7 +105,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/kaitlyn-hobbs-411316102/"
+    url  = "https://www.linkedin.com/in/kthobbs"
 
   [[params.social]]
     name = "stackoverflow"
@@ -124,12 +124,13 @@ disableHugoGeneratorInject = false
 
 [menu]
 
+
   [[menu.main]]
     identifier = "projects"
     name       = "projects"
     url        = "/projects/"
 
   [[menu.main]]
-    identifier = "code"
-    name       = "code"
-    url        = "/code/"
+    identifier = "publications"
+    name       = "publications"
+    url        = "/publications/"
