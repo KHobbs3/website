@@ -71,7 +71,7 @@ At first glance, the colours are uninformative. A reader can't easily discern th
 
 Additionally, country borders are indistinguishable and identifying some locations requires extensive geographical knowledge. Can you see where Germany ends and Switzerland begins?
 
-Moreover, a non-obvious concern for visualizing numerical comparisons on maps is that viewers will automatically and perhaps subconsciously perceive coloured areas to be proportionate to their values. In this case, it looks as though Canada rates the highest in life quality of those nations with both positive mindsets and circumstances when, in actuality, Finland ranks highest.
+Moreover, a non-obvious concern for visualizing numerical comparisons on maps is that viewers will automatically and, perhaps subconsciously, perceive coloured areas to be proportionate to their values. In this case, it looks as though Canada rates the highest in life quality of those nations with both positive mindsets and circumstances when, in actuality, Finland ranks highest.
 
 
 ### Boring Yet Honest Visualizations
@@ -80,7 +80,7 @@ I know what you're thinking, a bar graph? Really? Yes. Really.
 
 ![](/GWP-bar.png)
 
-The colours used clearly group data by perceptions (green tones for negative perceptions and red tones for positive) and dark/light shading contrasts positive/negative circumstances, respectively. Side-by-side vertical bars allow readers to compare groups instantaneously while requiring little background knowledge in statistics.
+The colours used clearly group data by perceptions (green tones for negative perceptions and orange tones for positive) and dark/light shading contrasts positive/negative circumstances, respectively. Side-by-side vertical bars allow readers to compare groups instantaneously while requiring little background knowledge in statistics.
 
 Using the same legend as the map, we can better observe that nations with positive circumstances and positive thinking rate their life quality much higher than those who think positively yet have negative circumstances - *a contrast to our original scatterplot that suggested positive thinking could improve overall life quality!*
 
