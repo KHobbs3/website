@@ -93,4 +93,4 @@ Moving forward, we should be more aware of the possibility that other variables 
 
 Using the Gallup World Poll results as interpreted by World Happiness Report, we saw how correlation does not imply causation and how misleading representing quantities in a map can be.
 
-It may seem a little disappointing that the most informative, easily read, and truthful illustration of data can sometimes be as simple as a bar plot; however, with the massive amounts of data circulating our perceptions every day, it is vital that we be presented with information thats representative *at first glance* for people at all levels of data literacy.
+It may seem a little disappointing that the most informative, easily read, and truthful illustration of data can sometimes be as simple as a bar plot; however, with the massive amounts of data circulating our perceptions every day, it is vital that we be presented with information thats representative *at first glance*.
