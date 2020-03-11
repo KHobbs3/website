@@ -44,8 +44,8 @@ In the above scatterplot, we see a general positive trend that suggests nations 
 
 You might even go so far as to conclude that positive-thinking can improve quality of life; however, you'd be making two fatal errors: 
 
-  1. assuming that correlation between these two measures insinuates that one causes the other our data has many other measures and 
-  2. ignoring other variables in the data set that may be influencing this trend.
+  1. assuming that correlation between two measures insinuates that one causes the other and,
+  2. ignoring other variables in the data set that may be influencing the observed trend.
     
     
 Overall, this plot fails to consider how a nation's circumstance influences their life quality. 
