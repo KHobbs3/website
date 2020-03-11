@@ -18,14 +18,14 @@ Data 552 - Master of Data Science Project, UBC
 
 ----
 
-Not too long ago, I was listening to an episode of my favourite podcast, Ted Radio Hour, entitled [*Can We Trust The Numbers*](https://www.npr.org/programs/ted-radio-hour/580617765/can-we-trust-the-numbers) that discusses the importance and caveats associated with data in the average citizen's day-to-day, with one particular concern citing misrepresentation of data. 
+Not too long ago, I was listening to an episode of my favourite podcast, Ted Radio Hour, entitled [*Can We Trust The Numbers*](https://www.npr.org/programs/ted-radio-hour/580617765/can-we-trust-the-numbers) that discusses importance and caveats associated with data in the average citizen's day-to-day, one particular concern citing misrepresentation of data. 
 
 As we enter the crux of a Big Data Revolution, it is important to equip ourselves with skills required to think critically about the massive amount of data regularly being presented.
 
 
 ### Misrepresentation Using World Happiness Report Data
 
-Using data collected through survey by the Gallup World Poll and processed by [World Happiness Report](https://worldhappiness.report/ed/2019/), we can investigate how different visualizations suggest different conclusions. 
+Using survey data collected by the Gallup World Poll and processed by [World Happiness Report](https://worldhappiness.report/ed/2019/), we can investigate how different visualizations suggest different conclusions. 
 
 ##### About the data
 
@@ -68,9 +68,11 @@ D. | Negative Perception + Negative Circumstances
 
 We can try to read this visualization by observing the legend, which notates positive and negative perceptions or circumstances with a dash (-) or plus (+) sign, respectively.
 
-At first glance, we can notice how uninformative the colours are. We can't easily discern the difference between positive and negative categories.
+At first glance, the colours are uninformative. A reader can't easily discern the difference between positive and negative categories.
 
-Additionally, a general concer with visualizing numerical comparisons with maps is that viewers will perceive coloured areas to be proportionate to their values. In this case, it looks as though Canada rates the highest in life quality of those nations with positive mindsets and circumstances when, in actuality, Finland ranks the highest.
+Additionally, country borders are indistinguishable and identifying some locations requires extensive geographical knowledge. Can you see where Germany ends and Switzerland begins?
+
+Moreover, a non-obvious concern for visualizing numerical comparisons on maps is that viewers will perceive coloured areas to be proportionate to their values. In this case, it looks as though Canada rates the highest in life quality of those nations with positive mindsets and circumstances when, in actuality, Finland ranks highest.
 
 
 ### Boring Yet Honest Visualizations
@@ -79,18 +81,16 @@ I know what you're thinking, a bar graph? Really? Yes. Really.
 
 ![](/GWP-bar.png)
 
-The colours used clearly group data by perceptions (green tones for negative perceptions and red tones for positive) as well as use shading to contrast circumstances. Vertical bars allow readers to compare groups accurately and instantaneously - without much background knowledge in statistics.
+The colours used clearly group data by perceptions (green tones for negative perceptions and red tones for positive) and dark/light shading contrasts positive/negative circumstances. Vertical bars allow readers to compare groups accurately and instantaneously while requiring little background knowledge in statistics.
 
-Using the same legend as the map, we can better observe that nations with positive circumstances and positive thinking rate their life quality much higher than those who think positively yet have negative circumstances.
+Using the same legend as the map, we can better observe that nations with positive circumstances and positive thinking rate their life quality much higher than those who think positively yet have negative circumstances - *a contrast to our original scatterplot that suggested positive thinking could improve overall life quality!*
 
-A contrast to our original scatterplot that suggested positive thinking could improve overall life quality!
-
-Moving forward, we should be more aware of the possibility that other variables not considered in graphics that show correlations may be involved in the bigger picture before we draw conclusions.
+Moving forward, we should be more aware of the possibility that other variables not considered in correlation graphics may be involved in the story being told by the data before conclusions are drawn.
 
 ---
 
 #### Take Away
 
-We saw how correlation does not imply causation and how misleading representing quantities in a map can be.
+Using the Gallup World Poll results as interpreted by World Happiness Report, we saw how correlation does not imply causation and how misleading representing quantities in a map can be.
 
 It may seem a little disappointing that the most informative, easily read, and truthful illustration of data can sometimes be as simple as a bar plot; however, with the massive amounts of data circulating our perceptions every day, it is vital that we be presented with information thats representative *at first glance*, for people at all levels of data literacy.
