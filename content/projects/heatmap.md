@@ -2,15 +2,16 @@
 author:
   name: "KT Hobbs"
 date: 2019-12-13
-linktitle: Blog for U.S. Airline Cancellations Ratios
+linktitle: Blog - U.S. Airline Cancellations Ratios
 type:
 - post
 - posts
-title: Blog for U.S. Airline Cancellations Ratios
+title: Blog - U.S. Airline Cancellations Ratios
 weight: 10
 series:
 - Hugo 101
 ---
+*Authors:* Kaitlyn Hobbs and Jasmine Chen
 
 Master of Data Science Project, UBC
 

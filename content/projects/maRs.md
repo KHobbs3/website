@@ -12,6 +12,7 @@ series:
 - Hugo 101
 ---
 
+*Authors:* Claudia Nikel, KT Hobbs, Shreeram Murali
 
 Master of Data Science Course Work, UBC
 
@@ -354,7 +355,6 @@ code > span.fu { color: #900; font-weight: bold; }  code > span.er { color: #a61
 <p><code>marsMM(func='t',x)</code></p>
 <p><code>marsMM(func='w',x)</code></p>
 <p><code>marsMM(func='p',x)</code></p>
-<p><em>Authors:</em> Claudia Nikel, KT Hobbs, Shreeram Murali</p>
 </div>
 </div>
 

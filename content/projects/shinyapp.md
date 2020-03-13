@@ -2,11 +2,11 @@
 author:
   name: "KT Hobbs"
 date: 2019-12-17
-linktitle: Housing Inventory Search - Shiny App
+linktitle: Shiny App - Housing Inventory Search
 type:
 - post
 - posts
-title: Housing Inventory Search - Shiny App
+title: Shiny App - Housing Inventory Search
 weight: 10
 series:
 - Hugo 101
