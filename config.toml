@@ -113,12 +113,12 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "KT-portfolio"
+    subtitle  = "-portfolio"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"</a>'
 
   [languages.fr]
-    subtitle  = "KT-portfolio"
+    subtitle  = "-portfolio"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" </a>'
 
