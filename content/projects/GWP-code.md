@@ -25,18 +25,6 @@ life2 <- life[1:16]
 colnames(life2) <- c("Country", "Year", "Ladder", "logGDP", "Support", "LifeExp", "Freedom", "Generosity", "Corruption", "PosAffect", "NegAffect", "GovConf", "DemQuality", "DeliveryQuality", "Inequality", "InequalityFromAverage")
 ```
 
-```{r, include = F}
-# find the smallest year that all countries have data for
-max_min_year <- 2000
-
-for (i in life2$Country){
-  if (min(subset(life2, life2$Country == i)$Year) > max_min_year) {
-    max_min_year <- min(subset(life2, life2$Country == i)$Year)
-  } 
-}
-
-max(life2$Year)
-```
 
 ### Part 2: Make measures and group data
 
@@ -168,13 +156,6 @@ avgD <- mean(groupD$Ladder)
 ```
 
 ### Part 3: Compare groups
-
-```{r assess data, include = F}
-# Assumption 1: is it iid?
-
-# Assumption 2: is it Normal?
-qqnorm(life3$Ladder)
-```
 
 ```{r group data}
 # put groups into one dataframe ----
