@@ -16,7 +16,7 @@ series:
 
 ##### In the work place
 
-I enjoy the dedication, challenges, and storyline involved with medium-length projects as well as being involved in problem solving. My biggest weakness is getting swallowed by "mental wormholes"; a term I use to describe getting lost in chains of thought (or research) that take me towards a realm unrelated to my original investigation. I find my focus in all aspects of my life improves with regular meditation.
+I enjoy the dedication, challenges, and storyline involved with medium-length projects as well as being involved in problem solving. My biggest weakness is getting swallowed by "mental wormholes"; a term I use to describe getting lost in chains of thought (or research) that take me towards a realm unrelated to my original investigation. I find my focus generally improves with regular meditation.
 
 
 ##### Personal life
