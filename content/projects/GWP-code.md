@@ -16,7 +16,7 @@ Data 552 - Master of Data Science Project, UBC
 ----
 
 
-## Part 1: Cleaning
+### Part 1: Cleaning
 ```{r Cleaning}
 # drop unneccessary columns
 life2 <- life[1:16]
@@ -38,7 +38,7 @@ for (i in life2$Country){
 max(life2$Year)
 ```
 
-## Part 2: Make measures and group data
+### Part 2: Make measures and group data
 
 ```{r log GDP growth}
 library(dplyr)
@@ -167,7 +167,8 @@ groupD <- subset(life3,
 avgD <- mean(groupD$Ladder)
 ```
 
-## Part 3: Compare groups
+### Part 3: Compare groups
+
 ```{r assess data, include = F}
 # Assumption 1: is it iid?
 
