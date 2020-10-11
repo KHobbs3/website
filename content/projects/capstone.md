@@ -12,7 +12,9 @@ series:
 - Hugo 101
 ---
 
-Master of Data Science Project, UBC
+Master of Data Science Capstone Project, UBC
+
+[Bringing Understanding to the COVID-19 Outbreak in Ontario](https://masterdatascience.ubc.ca/data-stories/data-action-bringing-understanding-covid-19-outbreak-ontario)
 
 [D3 Interactive Visualization](https://ubco-mds-2019-labs.github.io/data-599-capstone-statistics-canada/kt/)
 

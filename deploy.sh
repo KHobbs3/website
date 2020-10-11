@@ -23,3 +23,15 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
+
+# commit and push changes in public folder
+cd ../
+
+git status
+
+git add .
+
+git commit -m "$msg"
+
+git push

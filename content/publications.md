@@ -18,7 +18,7 @@ series:
 
 **Authors:** Ben Joris, Greg Gloor, Jean Macklaim, Daniel Giguere, Kaitlyn Hobbs  
 
-**Organization:** Gloor Lab, Western University.
+**Organization:** Gloor Lab, The University of Western Ontario.
 
 
 
@@ -26,4 +26,4 @@ series:
 
 **Authors:** Yanxin Li, Ben C Shirley, Ruth C Wilkins, Farrah Norton, Joan H M Knoll, Peter K Rogan
 
-**Organization:** Cytognomix, Western University.
+**Organization:** Cytognomix, The University of Western Ontario.
