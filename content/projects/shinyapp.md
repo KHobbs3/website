@@ -14,4 +14,8 @@ series:
 
 Master of Data Science Project, UBC
 
+---
+
+A search of resale inventory for potential home buyers using property valuation from the `MPV` package in R.
+
 [https://ktshinyapps.shinyapps.io/housing/](https://ktshinyapps.shinyapps.io/housing/)

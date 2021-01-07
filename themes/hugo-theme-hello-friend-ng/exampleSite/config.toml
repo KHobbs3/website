@@ -8,7 +8,7 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-rssLimit  = 10  # Maximum number of items in the RSS feed.
+# rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
@@ -29,7 +29,7 @@ enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
@@ -54,11 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Data Science Portfolio"
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Home"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""

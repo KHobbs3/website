@@ -22,5 +22,5 @@ A 5-month travel through Asia and Europe moulded much of my current outlook. In 
 
 #### In the work place
 
-Determination, problem solving, and storytelling involved with project-oriented work appeals to me. My biggest weakness is getting lost in trains of thought (or research) that deviate from my original investigation; however, sometimes this tendency brings me to new resources that offer a more holistic scope of inquiry.
+Determination, problem solving, and storytelling involved with project-oriented work appeals to me. My biggest weakness is getting lost in trains of thought (or research) that deviate from my original investigation; however, sometimes this tendency brings me to new resources that offer a more holistic perspective.
 
